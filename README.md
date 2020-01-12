@@ -123,7 +123,7 @@ http: // localhost: 8080 / shelter / 1
 *(wrong animal type)*  
 
 http: // localhost: 8080 / shelter /      
-  
+    
 {   
     "name": "Joe",   
     "type": "Random word"  
