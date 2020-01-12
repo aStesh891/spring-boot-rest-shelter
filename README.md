@@ -9,7 +9,7 @@ Using this service, you can keep a record of animals in a shelter / zoo.
 
 ### Author
 
-* *Anna Steshenko* 
+* *Anna Steshenko*  
 
 # Use of service
 
