@@ -12,7 +12,7 @@ Using this service, you can keep a record of animals in a shelter / zoo.
 * *Anna Steshenko*  
 
 # Use of service
-
+  
 * ### Adding an animal
 
 **Request Type:** POST   
