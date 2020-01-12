@@ -127,7 +127,7 @@ http: // localhost: 8080 / shelter /
 {   
     "name": "Joe",   
     "type": "Random word"  
-}  
+}    
  
 **Answer:**    
 {  
